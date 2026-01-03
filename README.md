@@ -1,19 +1,19 @@
 
-#Food Delivery Application
+# Food Delivery Application
 
-##Description:
+## Description:
 Backend application for a food delivery platform, developed using Java OOP and PL/SQL, focusing on clean architecture, business logic separation, and database integration. The application manages clients, restaurants, orders, and delivery drivers, simulating real-world food ordering workflows.
 
-##Technologies:
+## Technologies:
 
-###Java (Object-Oriented Programming)
+### Java (Object-Oriented Programming)
 
-###JDBC
+### JDBC
 
-###Oracle Database
+### Oracle Database
 
-###PL/SQL (procedures, functions, triggers)
+### PL/SQL (procedures, functions, triggers)
 
-###SQL
+### SQL
 
-###Git / GitHub
+### Git / GitHub
