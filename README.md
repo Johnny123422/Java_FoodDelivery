@@ -6,14 +6,14 @@ Backend application for a food delivery platform, developed using Java OOP and P
 
 ## Technologies:
 
-### Java (Object-Oriented Programming)
+ - Java (Object-Oriented Programming)
 
-### JDBC
+- JDBC
 
-### Oracle Database
+- Oracle Database
 
-### PL/SQL (procedures, functions, triggers)
+- PL/SQL (procedures, functions, triggers)
 
-### SQL
+- SQL
 
-### Git / GitHub
+- Git / GitHub
